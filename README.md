@@ -19,7 +19,7 @@ The latest compiled application builds (installers and standalone archives for s
 
 ### ⚖️ License
 The software and all published builds are distributed under the **author's proprietary license**, matching the primary project.
-* The complete terms and conditions of use can be found in the [LICENSE](LICENSE) file.
+* The complete terms and conditions of use can be found in the following files: [LICENSE](LICENSE) | [LICENSE.txt](LICENSE.txt) | [LICENSE.md](LICENSE.md).
 * Copying, modifying, decompiling binary files, or distributing them commercially without the express written consent of the author is strictly prohibited.
 
 *Note: This repository contains no source code for the interface or the core application logic. All builds are compiled directly by the project author from a private repository.*
@@ -41,7 +41,7 @@ The software and all published builds are distributed under the **author's propr
 
 ### ⚖️ Лицензия
 Программа и все публикуемые сборки распространяются под **собственной (проприетарной) лицензией автора**, аналогичной основному проекту. 
-* Полный текст условий использования доступен в файле [LICENSE](LICENSE).
+* Полный текст условий использования доступен в следующих файлах: [LICENSE](LICENSE) | [LICENSE.txt](LICENSE.txt) | [LICENSE.md](LICENSE.md).
 * Копирование, модификация, декомпиляция бинарных файлов или их коммерческое распространение без явного согласия автора строго запрещены.
 
 *Примечание: Этот репозиторий не содержит исходного кода интерфейса или ядра программы. Все сборки компилируются автором проекта на базе приватного репозитория.*
@@ -63,7 +63,7 @@ The software and all published builds are distributed under the **author's propr
 
 ### ⚖️ Ліцензія
 Програма та всі опубліковані збірки розповсюджуються під **власною (пропрієтарною) ліцензією автора**, аналогічною до основного проєкту.
-* Повний текст умов використання доступний у файлі [LICENSE](LICENSE).
+* Повний текст умов використання доступний у таких файлах: [LICENSE](LICENSE) | [LICENSE.txt](LICENSE.txt) | [LICENSE.md](LICENSE.md).
 * Копіювання, модифікація, декомпіляція бінарних файлів або їхнє комерційне розповсюдження без прямої згоди автора суворо заборонено.
 
 *Примітка: Цей репозиторій не містить вихідного коду інтерфейсу або ядра програми. Усі збірки компілюються автором проєкту на базі приватного репозиторію.*
